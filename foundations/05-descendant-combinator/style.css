@@ -1,0 +1,38 @@
+/* Using class type: */
+/*
+div p {
+    background-color: hsl(64, 100%, 70%);
+    color: #ff0010;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* Using class type: */
+/* 
+.container p {
+    background-color: hsl(64, 100%, 70%);
+    color: #ff0010;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* Using type class */
+/*
+div .text {
+    background-color: hsl(64, 100%, 70%);
+    color: #ff0010;
+    font-size: 20px;
+    text-align: center;
+}
+
+ */
+
+ /* Using class: */
+.container .text {
+    background-color: hsl(64, 100%, 70%);
+    color: #ff0010;
+    font-size: 20px;
+    text-align: center;   
+}
